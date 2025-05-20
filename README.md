@@ -1,5 +1,3 @@
-My Data Science Portfolio
-
 **Projects**
 ### 1. [Cowrywise Dataset Analytics](https://github.com/Oyekem/DataAnalytics-Assessment)
 - Built, transformed and Explored with MySQL
