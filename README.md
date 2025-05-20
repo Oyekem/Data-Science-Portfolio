@@ -1,6 +1,7 @@
 **Projects**
 ### 1. [Cowrywise Dataset Analytics](https://github.com/Oyekem/DataAnalytics-Assessment)
 - Built, transformed and Explored with MySQL
+- Data Analysis Done in SQL for HR, Marketing and other department.
 
 ### 2. [UCI Adult Income Analysis](https://github.com/Oyekem/First)
 - Cleaned and transformed data in PostgreSQL
