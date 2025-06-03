@@ -1,5 +1,5 @@
 **Projects**
-### 1. [Iris Flower Dataset Analysis: Species Comparison & Feature Insights]([https://github.com/Oyekem/iris_analysis])
+### 1. [Iris Flower Dataset Analysis]([https://github.com/Oyekem/iris_analysis])
 - SQL for data grouping, filtering, and outlier detection 
 - Power BI for interactive visual exploration.
 
