@@ -1,5 +1,5 @@
 ### **Projects**
-### 1. [Wisconsin Breast Cancer Diagnostic Analysis]((https://github.com/Oyekem/breast-cancer-sql-analysis))
+### 1.  [Wisconsin Breast Cancer Diagnostic Analysis]((https://github.com/Oyekem/breast-cancer-sql-analysis))
 - SQL used for exploratory analysis, statistical summaries (mean, median, mode, percentiles), and pattern detection.
 - Dataset loaded and queried entirely in PostgreSQL using structured SQL techniques.
 - Covered key analysis like diagnosis group comparisons, identifying high-risk metrics (e.g., high area_worst), and computing tumor distribution percentages.
