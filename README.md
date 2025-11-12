@@ -1,10 +1,10 @@
 ### **Projects**
 ###  1.  [Bank Marketing Analysis]([https://github.com/Ohttps://github.com/Oyekem/bank_marketing_analysis])
-              - Conducted exploratory data analysis (EDA) on the Bank Marketing dataset using Python (Pandas, NumPy, Matplotlib, Seaborn).
-              - Performed data cleaning, handled categorical encoding, and analyzed key predictors influencing customer subscription decisions.
-              - Identified high-impact factors such as call duration, previous campaign success, and education level through statistical summaries and correlation analysis.
-              - Evaluated customer behavior trends and subscription likelihood across demographic and financial variables.
-              - Summarized insights to guide marketing strategy and improve campaign targeting efficiency.
+- Conducted exploratory data analysis (EDA) on the Bank Marketing dataset using Python (Pandas, NumPy, Matplotlib, Seaborn).
+- Performed data cleaning, handled categorical encoding, and analyzed key predictors influencing customer subscription decisions.
+- Identified high-impact factors such as call duration, previous campaign success, and education level through statistical summaries and correlation analysis.
+- Evaluated customer behavior trends and subscription likelihood across demographic and financial variables.
+- Summarized insights to guide marketing strategy and improve campaign targeting efficiency.
 
 
 ### 2.  [Wisconsin Breast Cancer Diagnostic Analysis](https://github.com/Oyekem/breast-cancer-sql-analysis)  
@@ -36,6 +36,7 @@
 ### 7. [EPL Dataset Analysis](https://github.com/Oyekem/Excel-Analytics-01)
 - Cleaned and prepared the dataset in Excel.
 - Created a comprehensive Excel dashboard featuring team and player statistics using PivotTables and charts.
+
 
 ### 8. [Cleanest City in India & Healthcare Dashboards](https://github.com/Oyekem/PowerBI_Dashboards)
 - Processed, cleaned, and aggregated data directly in Power BI.
