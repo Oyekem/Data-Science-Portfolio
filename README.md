@@ -1,16 +1,17 @@
 ### **Projects**
 
 
-###  1.  [Bank Marketing Prediction]([https://github.com/Oyekem/bank_marketing_prediction]) 
+###  1.  [Bank Marketing Prediction](https://github.com/Oyekem/bank_marketing_prediction)
 -  
 
 
 ###  2.  [Bank Marketing Analysis](https://github.com/Oyekem/bank-marketing-analysis)
-- Conducted exploratory data analysis (EDA) on the Bank Marketing dataset using Python (Pandas, NumPy, Matplotlib, Seaborn).
-- Performed data cleaning, handled categorical encoding, and analyzed key predictors influencing customer subscription decisions.
-- Identified high-impact factors such as call duration, previous campaign success, and education level through statistical summaries and correlation analysis.
-- Evaluated customer behavior trends and subscription likelihood across demographic and financial variables.
-- Summarized insights to guide marketing strategy and improve campaign targeting efficiency.
+- Analyzed 45,000+ customer records from the Bank Marketing dataset to explore subscription patterns
+- Cleaned and preprocessed data by handling missing values, duplicates, outliers, and inconsistent types
+- Performed univariate and bivariate analysis to identify key factors influencing subscription decisions
+- Visualized trends across age, job type, education, contact method, and previous campaign outcomes
+- Highlighted strong influencers such as call duration, previous campaign success, and month of contact
+- Generated actionable insights to guide marketing strategies and improve campaign targeting efficiency
 
 
 ### 3.  [Wisconsin Breast Cancer Diagnostic Analysis](https://github.com/Oyekem/breast-cancer-sql-analysis)  
