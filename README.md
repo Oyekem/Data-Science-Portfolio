@@ -5,7 +5,7 @@
 -  
 
 
-###  2.  [Bank Marketing Analysis]([https://github.com/Oyekem/bank_marketing_analysis]) 
+###  2.  [Bank Marketing Analysis]([https://github.com/Oyekem/bank-marketing-analysis])
 - Conducted exploratory data analysis (EDA) on the Bank Marketing dataset using Python (Pandas, NumPy, Matplotlib, Seaborn).
 - Performed data cleaning, handled categorical encoding, and analyzed key predictors influencing customer subscription decisions.
 - Identified high-impact factors such as call duration, previous campaign success, and education level through statistical summaries and correlation analysis.
