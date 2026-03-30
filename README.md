@@ -6,12 +6,11 @@
 
 
 ###  2.  [Bank Marketing Analysis](https://github.com/Oyekem/bank-marketing-analysis)
-- Analyzed 45,000+ customer records from the Bank Marketing dataset to explore subscription patterns
-- Cleaned and preprocessed data by handling missing values, duplicates, outliers, and inconsistent types
-- Performed univariate and bivariate analysis to identify key factors influencing subscription decisions
-- Visualized trends across age, job type, education, contact method, and previous campaign outcomes
-- Highlighted strong influencers such as call duration, previous campaign success, and month of contact
-- Generated actionable insights to guide marketing strategies and improve campaign targeting efficiency
+- Cleaned and preprocessed 45,000+ customer records by handling missing values, duplicates, outliers, and inconsistent types.
+- Performed univariate and bivariate analysis to identify key factors influencing subscription decisions.
+- Visualized trends across age, job type, education, contact method, and previous campaign outcomes.
+- Highlighted strong influencers such as call duration, previous campaign success, and month of contact.
+
 
 
 ### 3.  [Wisconsin Breast Cancer Diagnostic Analysis](https://github.com/Oyekem/breast-cancer-sql-analysis)  
