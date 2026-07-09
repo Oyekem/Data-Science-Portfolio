@@ -1,7 +1,6 @@
 # Featured Projects
 
 
-
 # Table of Contents
 
 1. [Crypto Data Pipeline & Real-Time Analytics System](#1--crypto-data-pipeline--real-time-analytics-system)
