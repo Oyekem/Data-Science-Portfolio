@@ -36,7 +36,7 @@ An end-to-end data engineering and analytics project that collects live cryptocu
 
 ---
 
-##  2.  [Online Retail Sales Analytics Dashboard](https://github.com/Oyekem/Sales_dashboard))
+##  2.  [Online Retail Sales Analytics Dashboard](https://github.com/Oyekem/Sales_dashboard)
 An end-to-end Business Intelligence project analyzing over **527,000** online retail transactions using **Python** and **Power BI**. The project includes data cleaning, feature engineering, exploratory data analysis, Pareto Analysis, RFM Segmentation, Cohort Analysis, and an interactive dashboard that provides insights into sales performance, customer behavior, product performance, and customer retention.
 
 **Tools:** Python • Pandas • NumPy • Matplotlib • Seaborn • Power BI
